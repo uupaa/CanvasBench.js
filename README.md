@@ -1,0 +1,4 @@
+CanvasBench.js
+==============
+
+Canvas benchmark
